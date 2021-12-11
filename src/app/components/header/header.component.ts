@@ -9,5 +9,5 @@ export class HeaderComponent implements OnInit {
   constructor() {}
 
   ngOnInit(): void {}
-  title = "Task List";
+  title = "Lista de Tareas";
 }
